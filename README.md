@@ -1,13 +1,11 @@
-Claro, Bruno! Vou criar um `README.md` para esse projeto de forma clara e estruturada, no padrão que o pessoal costuma colocar em projetos de bootcamp e portfólio no GitHub. Aqui está:
 
----
 
 ## 📄 README.md
 
 ````markdown
 # 💰 DIOBank - Sistema Bancário Simples em Python
 
-Projeto desenvolvido durante o Bootcamp **Potência Tech powered by iFood | Ciência de Dados com Python** da **DIO** em parceria com a **Suzano**.
+Projeto desenvolvido durante o Bootcamp **DIO** em parceria com a **Suzano**.
 
 ## 📌 Descrição
 
